@@ -1,0 +1,7 @@
+Instruções para o upload dos arquivos de banco de dados do Projeto Integrador:
+
+1) Avaliar os arquivos que irão para o repositório;
+
+2) Modificar o que for necessário, mesmo depois do upload;
+
+3) Somente os arquivos que fazem parte do banco de dados poderão estar nessa pasta.
